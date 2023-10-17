@@ -27,8 +27,8 @@ global.prems = []
 global.lenguajeGB = es  //<-- Predeterminado en idioma Español 
 
 // confirmación en el ajuste de idioma y owner en la consola
-global.languageLen = ""
-global.registerNumber = ""
+global.languageLes= ""
+global.registerNumber = "6"
 
 // ES ➜ Consigue Apikey en https://platform.openai.com/account/api-keys
 global.openai_key = 'sk-0'
